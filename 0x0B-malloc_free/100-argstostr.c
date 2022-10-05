@@ -54,3 +54,4 @@ char *argstostr(int ac, char **av)
 			return (NULL);
 		}
 		return (new_string);
+}
