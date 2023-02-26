@@ -34,4 +34,3 @@ def island_perimeter(grid):
 #        if width > maxWidth:
 #            maxWidth = width
 #    return ((maxWidth + length) * 2)
-
